@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musin\\Projects\\SQL Request\\Database Factory\\Database Factory\\Database Factory.csproj": {}
+    "C:\\Users\\musin\\Projects\\SQL Request\\DB_Factory_SQL\\Database Factory\\Database Factory\\Database Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musin\\Projects\\SQL Request\\Database Factory\\Database Factory\\Database Factory.csproj": {
+    "C:\\Users\\musin\\Projects\\SQL Request\\DB_Factory_SQL\\Database Factory\\Database Factory\\Database Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musin\\Projects\\SQL Request\\Database Factory\\Database Factory\\Database Factory.csproj",
+        "projectUniqueName": "C:\\Users\\musin\\Projects\\SQL Request\\DB_Factory_SQL\\Database Factory\\Database Factory\\Database Factory.csproj",
         "projectName": "Database Factory",
-        "projectPath": "C:\\Users\\musin\\Projects\\SQL Request\\Database Factory\\Database Factory\\Database Factory.csproj",
+        "projectPath": "C:\\Users\\musin\\Projects\\SQL Request\\DB_Factory_SQL\\Database Factory\\Database Factory\\Database Factory.csproj",
         "packagesPath": "C:\\Users\\musin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musin\\Projects\\SQL Request\\Database Factory\\Database Factory\\obj\\",
+        "outputPath": "C:\\Users\\musin\\Projects\\SQL Request\\DB_Factory_SQL\\Database Factory\\Database Factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
