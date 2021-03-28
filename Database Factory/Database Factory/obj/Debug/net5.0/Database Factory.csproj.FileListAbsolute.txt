@@ -1,0 +1,16 @@
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.exe
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.deps.json
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.runtimeconfig.json
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.runtimeconfig.dev.json
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.dll
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\ref\Database Factory.dll
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\bin\Debug\net5.0\Database Factory.pdb
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.csprojAssemblyReference.cache
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.AssemblyInfoInputs.cache
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.AssemblyInfo.cs
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.csproj.CoreCompileInputs.cache
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.dll
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\ref\Database Factory.dll
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.pdb
+C:\Users\musin\Projects\SQL Request\Database Factory\Database Factory\obj\Debug\net5.0\Database Factory.genruntimeconfig.cache
